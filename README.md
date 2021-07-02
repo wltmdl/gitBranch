@@ -5,5 +5,5 @@ git branch text
 git checkout text
 ***
 
-git push origin readme 
+git push -u origin readme 
 
