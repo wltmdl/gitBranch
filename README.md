@@ -1,3 +1,9 @@
 210703
 
-## readme BRANCH 로 가면 markdown 사용법 적혀있음.
+***
+git branch text
+git checkout text
+***
+
+git push origin readme 
+
