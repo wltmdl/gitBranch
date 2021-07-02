@@ -7,6 +7,7 @@ git branch test
 git checkout test
 ***
 
+#### branch test 에서 git push -u test 해서 업스트림 연동이 한번 되면, 해당 원격저장소 브랜치는 해당 로컬저장소 브랜치 만 받는 듯?
 
 ** t ** /or/ __ t __ =강조, 세개는 기우림
 **강조**
