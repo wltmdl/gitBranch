@@ -7,8 +7,6 @@ git branch test
 git checkout test
 ***
 
-# git push -u origin readme 
-
 
 ** t ** /or/ __ t __ =강조, 세개는 기우림
 **강조**
